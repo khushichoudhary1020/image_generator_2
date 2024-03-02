@@ -19,6 +19,7 @@ This project is a simple AI Image Generator web application that allows users to
 
 **JavaScript File (script.js):**
 
+
 - The JavaScript file provides the main functionality of the AI image generator.
 - It defines variables to select HTML elements and functions to update image boxes and generate AI images using the OpenAI API.
 - Event listeners are set up to handle form submission and user interactions.
